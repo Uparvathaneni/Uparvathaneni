@@ -3,7 +3,6 @@ I am Uma Parvathaneni based on New York. Currenltly working as a BI Engineer. I 
 
  🔭 I’m currently working on Power BI  <br/>
  🌱 I’m currently learning Python <br/>
- 😄 Pronouns: You can call me as "Uma" 😄 <br/>
  💬 Ask me about something, I'll gladly assist if the ball is in my court😄<br/>![github gif goma](https://user-images.githubusercontent.com/83037537/154869452-2835bc37-ad2d-4bf5-8368-b909b38a7c29.gif)
 
                                                                                                                    
