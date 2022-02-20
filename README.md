@@ -5,7 +5,9 @@ I am Uma Parvathaneni based on New York. Currenltly working as a BI Engineer. I 
  🌱 I’m currently learning Python
  😄 Pronouns: You can call me as "Uma" 😄
  💬 Ask me about something, I'll gladly assist if the ball is in my court😄
- ![github gif goma](https://user-images.githubusercontent.com/83037537/154869277-40008c40-a9f1-4897-892b-5e7189260328.gif)
+                                                           
+                                                           
+                                                               ![github gif goma](https://user-images.githubusercontent.com/83037537/154869277-40008c40-a9f1-4897-892b-5e7189260328.gif)
 
 
 <!--
