@@ -1,5 +1,11 @@
 ### Hi there 👋
-This is Uma Parvathaneni. People call me "Uma" 😄
+I am Uma Parvathaneni based on New York. Currenltly working as a BI Engineer. I love to learn and build something new productive, innovative and creative.
+
+ 🔭 I’m currently working on Power BI  
+ 🌱 I’m currently learning Python
+ 😄 Pronouns: You can call me as "Uma" 😄
+ 💬 Ask me about something, I'll gladly assist if the ball is in my court😄
+ 
 
 <!--
 **Uparvathaneni/Uparvathaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
